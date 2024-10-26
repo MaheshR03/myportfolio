@@ -15,7 +15,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-	metadataBase: new URL("https://localhost:3000"),
+	metadataBase: new URL("https://myportfolio-qk2m.vercel.app/"),
 	title: 'Mahesh R',
 	authors: {
 		name: "Mahesh R",
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
 		title: "Mahesh R",
 		description:
 			"Based in Bangalore, I'm a Fullstack developer passionate about programming and tech.",
-		url: "https://localhost:3000",
+		url: "https://myportfolio-qk2m.vercel.app/",
 		siteName: "Mahesh R",
 		images: "/preview.png",
 		type: "website",
