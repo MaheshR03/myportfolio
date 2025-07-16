@@ -17,7 +17,7 @@ export default function Projects(){
         {
             title: "Equihealth - Visualization of healthcare disparity across india using a prediction model",
             tech: [SiReact, SiPython, SiHtml5, SiCss3],
-            link: "https://github.com/MaheshR03",
+            link: "https://github.com/MaheshR03/equihealth",
             cover: "/Equihealth.png",
             background: "bg-green-500",
         },
