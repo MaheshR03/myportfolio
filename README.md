@@ -127,7 +127,7 @@ myportfolio/
 
 ## 📷 Snapshot
 
-<img width="1890" height="866" alt="Portfolio Homepage Screenshot" src="https://github.com/user-attachments/assets/ea9cfe75-fa4b-4319-93dd-12ddc68222ff" />
+![alt text](image.png)
 
 *Modern, responsive design showcasing the portfolio's clean interface and professional layout*
 
