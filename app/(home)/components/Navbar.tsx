@@ -1,7 +1,7 @@
 import { cn } from "@/lib/utils";
 import Link from "next/link";
 import React from "react";
-import { SiGithub, SiLinkedin, SiX } from "react-icons/si";
+import { SiGithub, SiHackerrank, SiLinkedin, SiX } from "react-icons/si";
 
 export default function Navbar({className}:{className?:string}) {
 
@@ -13,14 +13,14 @@ export default function Navbar({className}:{className?:string}) {
             
         },
         {
-            link: "https://www.linkedin.com/in/mahesh-r-179068294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+            link: "https://www.linkedin.com/in/mahesh-r-179068294/",
             label: "Linkedin",
             Icon: SiLinkedin
         },
         {
-            link: "https://x.com/_maxx_xr?t=G6-GL16P4Rob7A_nmdAWtA&s=08",
-            label: "X",
-            Icon: SiX
+            link: "https://www.hackerrank.com/profile/maheshr3002",
+            label: "Hackerrank",
+            Icon: SiHackerrank
         }
     ];
 
