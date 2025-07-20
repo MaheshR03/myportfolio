@@ -1,7 +1,7 @@
 import { cn } from "@/lib/utils";
 import Link from "next/link";
 import React from "react";
-import { SiGithub, SiHackerrank, SiLinkedin, SiX } from "react-icons/si";
+import { SiGithub, SiHackerrank, SiLinkedin } from "react-icons/si";
 
 export default function Navbar({className}:{className?:string}) {
 
