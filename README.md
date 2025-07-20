@@ -127,7 +127,7 @@ myportfolio/
 
 ## 📷 Snapshot
 
-![alt text](image.png)
+![alt text](snapshot.png)
 
 *Modern, responsive design showcasing the portfolio's clean interface and professional layout*
 
